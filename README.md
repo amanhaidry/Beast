@@ -1,4 +1,4 @@
-# Assignment Beats
+# Beats Headphones
 
 This project is a single-page website showcasing the "Beats 3" headphones. It features a modern design, interactive elements to provide an engaging user experience.
 
