@@ -53,3 +53,7 @@ The "Assignment Beats" project is designed to highlight the features and specifi
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in any modern web browser.
 3. Ensure the `style.css` file is in the same directory as `index.html`.
+
+## Deployed Link
+
+You can view the live project here: [Beats Landing Page](https://amanhaidry.github.io/Beast/)
